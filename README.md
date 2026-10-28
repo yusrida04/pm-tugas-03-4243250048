@@ -33,4 +33,4 @@ Error handling diterapkan pada fungsi `validasi()` dan `bobot()`. Kedua fungsi m
 
 ## Penggunaan AI
 
-AI digunakan sebagai alat bantu untuk memahami struktur program Dart, penggunaan higher-order function.
+AI digunakan sebagai referensi pendukung untuk memahami struktur penulisan program dalam bahasa Dart serta penerapan konsep higher-order function.
